@@ -6,30 +6,54 @@ Github may have the coolest mascot in the tech industry. The above image is the 
 
 <strong>Github is a web based git version control service that hosts your repository.</strong>
 
+It short Github lets you put your code online.
+
 There are other services that provide online repository hosting, but learning Github will serve you well on your journey to becoming a software engineer.
+
+Here is also a great video from Github about what Github is. [Link](https://www.youtube.com/watch?v=w3jLJU7DT5E)
 
 ## Terminology
 
-- repository: 
-- origin / master:
-- pull request (pr):
-- open source:
-- forking:
+- repository: Copy of your code base online.
+- origin: This is a alias of the remote address to your Github repository.
+- master: This is just a name of a branch. It happens to be called master and it is by convention called master.
+- pull request (pr): proposed changes submitted by users.
+- forking: is a way for other users to make a personal copy of the entire repository.
+- open source: software that can be freely used, modified, and shared in both modified and unmodified form by anyone. Open source is very important in the developer community.
+
+[Official Glossary from Github](https://help.github.com/articles/github-glossary/)
 
 ## The Problem
 
+So why do need a repository of our codebase online?
 
+1. A Central place to work off one code base.
+2. Allows for easy collaboration with other engineers.
+3. Makes open source possible.
+
+## Example Workflow
+Below is a simple workflow using Github
+
+Steps:
+1. Create online repository on Github.
+2. Link online repository with local code base.
+3. Push code base to Github.
+4. make changes to local repository on a new branch
+5. Push new branch up to repository.
+6. Create a pull request from new branch to master branch
+7. Other developers review the changes and merge the new branch into master
+8. On the local branch pull the changes from master.
 
 ## The Essentials
 
-- `git fetch`
-- `git pull`
-- `git push`
-- `git clone`
-- `git remote`
+- `git fetch`: fetches the latest changes from the online repository.
+- `git pull`: fetches the latest changes from the online repository and merges them.
+- `git push`: pushes the local committed changes to the online repository.
+- `git clone`: copies a online repository to a local directory.
+- `git remote`: shows where the online repository is pointed to.
 
 ## The Challenge
-NOTE: If you haven't already create a github account. Make sure to choose a username that you won't mind putting on a resume. It's very common practice for employers ask you about your Github account as it is a great place to see your sample work. Treat it like your portfolio.
+NOTE: If you haven't already create a Github account. Make sure to choose a username that you won't mind putting on a resume. It's very common practice for employers ask you about your Github account as it is a great place to see your sample work. Treat it like your portfolio.
 
 Steps:
 1. create a new repository
