@@ -1,6 +1,6 @@
 # Github
 ## What is Github
-<img src="assets/octocat.gif" style="height:200px max-width:200px"/>
+<img src="assets/octocat.gif" width="200"/>
 
 Github may have the coolest mascot in the tech industry. The above image is the famous Octocat. If you ever visit Silicon Valley you will see this cute creature plastered on developers Mac Books. So what exactly is Github and why is it so important for developers.
 
