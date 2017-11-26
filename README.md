@@ -68,4 +68,6 @@ Steps:
 10. on your local directory, pull the new merged in changes
 
 ## The Solutions
+
 ## Additional Resources
+[Github Guides](https://guides.github.com/)
