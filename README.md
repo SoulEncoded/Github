@@ -72,7 +72,7 @@ Steps:
 
 ## The Solutions
 
-<a href="https://www.youtube.com/watch?v=yvto-_4aVwU&t">Github Challenge Solutions</a>
+<a href="https://youtu.be/1SQG8M2rxo4">Github Challenge Solutions</a>
 
 ## Additional Resources
 [Github Guides](https://guides.github.com/)
