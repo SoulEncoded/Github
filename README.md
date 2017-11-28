@@ -1,4 +1,7 @@
 # Github
+
+<a href="https://www.youtube.com/watch?v=pV06kdwutLU&t"><img src="https://img.youtube.com/vi/pV06kdwutLU/0.jpg" width="500" /><a/>
+
 ## What is Github
 <img src="assets/octocat.gif" width="200"/>
 
@@ -68,6 +71,8 @@ Steps:
 10. on your local directory, pull the new merged in changes
 
 ## The Solutions
+
+<a href="https://www.youtube.com/watch?v=yvto-_4aVwU&t">Github Challenge Solutions</a>
 
 ## Additional Resources
 [Github Guides](https://guides.github.com/)
